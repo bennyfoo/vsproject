@@ -1,0 +1,3 @@
+D:\OpenGL\test\vsproject\glfw-3.2.1\include;D:\OpenGL\test\vsproject\glad\include;
+D:\OpenGL\test\vsproject\glfw-3.2.1\lib;
+opengl32.lib;glfw3.lib;

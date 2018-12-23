@@ -18,7 +18,7 @@
     <ClCompile Include="triangle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\glad\src\glad.c">
+    <ClCompile Include="..\glad\src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
